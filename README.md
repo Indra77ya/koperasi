@@ -222,9 +222,6 @@ Jika halaman tidak tampil dengan benar:
 - **Frontend**: jQuery, EasyUI, jQuery UI
 - **Bahasa**: PHP, JavaScript, HTML/CSS
 
-## Lisensi
-
-[Tentukan lisensi Anda di sini]
 
 ## Support & Dokumentasi
 
