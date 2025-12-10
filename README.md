@@ -33,7 +33,7 @@ Sebelum menginstal, pastikan Anda telah menginstal:
 
 ```bash
 # Clone atau download repository
-git clone https://github.com/username/koperasi.git
+git clone https://github.com/Indra77ya/koperasi.git
 # atau
 # Download ZIP dan extract ke folder koperasi
 ```
