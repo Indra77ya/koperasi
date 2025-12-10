@@ -22,7 +22,7 @@ Aplikasi web untuk mengelola operasional koperasi termasuk manajemen anggota, si
 
 Sebelum menginstal, pastikan Anda telah menginstal:
 
-- **XAMPP** (versi 7.0 atau lebih tinggi) atau web server lainnya dengan PHP
+- **XAMPP** (versi 5.6 atau lebih tinggi) atau web server lainnya dengan PHP
 - **PHP** 5.6 atau lebih tinggi
 - **MySQL** 5.5 atau lebih tinggi
 - **Web Browser** modern (Chrome, Firefox, Safari, Edge)
