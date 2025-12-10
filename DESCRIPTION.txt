@@ -1,1 +1,0 @@
-Sistem Manajemen Koperasi - Aplikasi web lengkap untuk mengelola operasional koperasi dengan fitur manajemen anggota, simpanan, pinjaman, kas, dan laporan keuangan terintegrasi. Dibangun dengan CodeIgniter, MySQL, dan jQuery untuk kemudahan penggunaan.
