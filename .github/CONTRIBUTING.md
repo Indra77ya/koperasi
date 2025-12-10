@@ -11,7 +11,7 @@ Fork repository ini ke akun GitHub Anda dengan mengklik tombol "Fork" di halaman
 ### 2. Clone Repository Anda
 
 ```bash
-git clone https://github.com/username/koperasi.git
+git clone https://github.com/Indra77ya/koperasi.git
 cd koperasi
 ```
 
