@@ -24,7 +24,7 @@ Sebelum menginstal, pastikan Anda telah menginstal:
 
 - **XAMPP** (versi 5.6 atau lebih tinggi) atau web server lainnya dengan PHP
 - **PHP** 5.6 atau lebih tinggi
-- **MySQL** 5.5 atau lebih tinggi
+- **MariaDB / MySQL** MariaDB 10.1.38 atau MySQL 5.5 atau lebih tinggi
 - **Web Browser** modern (Chrome, Firefox, Safari, Edge)
 
 ## Instalasi
