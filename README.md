@@ -222,8 +222,6 @@ Jika halaman tidak tampil dengan benar:
 - **Frontend**: jQuery, EasyUI, jQuery UI
 - **Bahasa**: PHP, JavaScript, HTML/CSS
 
-**Catatan**: Aplikasi ini dibangun menggunakan framework CodeIgniter versi 2.x.
-
 ## Lisensi
 
 Aplikasi ini dilisensikan di bawah [Lisensi MIT](LICENSE). Silakan baca file LICENSE untuk informasi lebih lanjut.
